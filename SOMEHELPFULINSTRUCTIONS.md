@@ -22,10 +22,11 @@ You need:
 - Access to a terminal or command prompt
 
 Supported operating systems:
+**Lagzilla was built mainly for Windows computers and may not work on macOS or Linux without extra setup**
 
 - Windows
-- Linux
-- macOS
+- Linux (not guaranteed to function)
+- macOS (not guaranteed to function)
 
 ---
 
