@@ -423,5 +423,7 @@ Review the license before copying, modifying, or distributing this project.
 
 Do not remove required assets.
 
+The tool may not work against all sites but works generally against weak sites with bad configurations. 
+
 Make sure your environment is correctly configured before running the application.
 ```
