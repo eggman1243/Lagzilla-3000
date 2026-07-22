@@ -213,7 +213,7 @@ Example:
 ```text
 Lagzilla-3000/
 ├── lagzilla.exe
-└── icon.ico
+└── icon.ico (Not included with the EXE by default, 
 ```
 
 ---
@@ -418,12 +418,6 @@ Steps:
 This project is licensed under the terms provided in the LICENSE file.
 
 Review the license before copying, modifying, or distributing this project.
-
----
-
-# Final Notes
-
-Keep required files together.
 
 Do not remove required assets.
 
