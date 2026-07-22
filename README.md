@@ -1,12 +1,12 @@
 # Lagzilla-3000
 
-A DDoS tool intended for research, educational purposes, and experimentation. It may also be used for stress-testing your own infrastructure, helping identify performance limitations while improving resilience and protection against future attacks.
+A DoS tool intended for research, educational purposes, and experimentation. It may also be used for stress-testing your own infrastructure, helping identify performance limitations while improving resilience and protection against future attacks.
 
 ## Disclaimer
 
 Lagzilla-3000 is provided strictly on an "as-is" and "as-available" basis, without warranties or guarantees of any kind, whether express or implied.
 
-By downloading, installing, modifying, distributing, or using this software, you acknowledge and agree that you are solely responsible for your own actions and decisions. The creator of Lagzilla-3000 does not control, supervise, or have knowledge of how third parties may choose to use this software after release.
+By downloading, installing, modifying, distributing, or using this software, you acknowledge and agree that you are solely responsible for your own actions and decisions. The creator of Lagzilla-3000 has no control over, or involvement in, how third parties may choose to use this software after release.
 
 The creator is not responsible for any actions performed by users, including but not limited to unauthorized access attempts, disruption of services, damage to infrastructure, loss of data, financial losses, legal disputes, service interruptions, or any other consequences resulting from independent use of this software.
 
@@ -51,7 +51,7 @@ Once released publicly, software may be downloaded, modified, redistributed, or 
 
 The creator cannot be held responsible for independent actions taken by third parties who obtain access to this project.
 
-Any misuse, abuse, or unlawful activity performed by another individual is the responsibility of that individual alone.
+Any misuse, abuse, or unlawful activity carried out by users or third parties is solely the responsibility of those individuals.
 
 ## Acceptance of Terms
 
@@ -69,3 +69,5 @@ If you do not agree with these terms, you should not use, copy, modify, or distr
 This project is provided for informational and research purposes. The creator is not responsible for the actions of individuals who choose to misuse, abuse, or operate this software outside of intended environments.
 
 Use of this software is entirely at your own risk.
+
+<sub>Note: Disclaimers cannot prevent intentional misuse by individuals who disregard applicable laws or permissions.</sub>
