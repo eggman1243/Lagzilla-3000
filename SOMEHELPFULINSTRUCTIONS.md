@@ -22,9 +22,10 @@ You need:
 - Access to a terminal or command prompt
 
 Supported operating systems:
-**Lagzilla was built mainly for Windows computers and may not work on macOS or Linux without extra setup**
 
-- Windows
+> Lagzilla-3000 was built mainly for Windows computers and may not work on Linux or macOS without additional setup.
+
+- Windows (primary support)
 - Linux (not guaranteed to function)
 - macOS (not guaranteed to function)
 
