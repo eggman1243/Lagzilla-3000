@@ -85,19 +85,18 @@ Install Python if required.
 
 # Installing Dependencies
 
+````markdown
 Lagzilla-3000 requires the following external packages:
 
 ```text
 requests
 beautifulsoup4
+```
 
 Install them with:
 
 ```bash
 pip install requests
-```
-
-```bash
 pip install beautifulsoup4
 ```
 
@@ -105,9 +104,6 @@ or:
 
 ```bash
 pip3 install requests
-```
-
-```bash
 pip3 install beautifulsoup4
 ```
 
