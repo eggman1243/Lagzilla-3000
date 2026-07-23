@@ -85,36 +85,31 @@ Install Python if required.
 
 # Installing Dependencies
 
-````markdown
 Lagzilla-3000 requires the following external packages:
 
-```text
-requests
-beautifulsoup4
-```
+- `requests`
+- `beautifulsoup4`
 
 Install them with:
 
-```bash
-pip install requests
-pip install beautifulsoup4
-```
+`pip install requests`
+
+`pip install beautifulsoup4`
 
 or:
 
-```bash
-pip3 install requests
-pip3 install beautifulsoup4
-```
+`pip3 install requests`
+
+`pip3 install beautifulsoup4`
 
 The following modules are already included with Python:
 
-- tkinter
-- tkinter.ttk
-- threading
-- time
-- os
-- sys
+- `tkinter`
+- `tkinter.ttk`
+- `threading`
+- `time`
+- `os`
+- `sys`
 
 ---
 
