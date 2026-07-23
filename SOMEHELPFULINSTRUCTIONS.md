@@ -6,7 +6,7 @@ This document provides instructions for installing, setting up, running, and tro
 
 It covers running the project from source code, installing required dependencies, using the executable release, and resolving common problems.
 
-Update: Lagzilla 3000 now includes an automatic dependency installer that detects missing packages and installs them for you if they are not found on your system.
+Update: Lagzilla 3000 now includes an automatic dependency installer that detects missing packages and installs them for you if they are not found on your system. (23/07/2026)
 
 ---
 
