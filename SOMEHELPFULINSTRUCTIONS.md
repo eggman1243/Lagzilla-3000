@@ -6,6 +6,8 @@ This document provides instructions for installing, setting up, running, and tro
 
 It covers running the project from source code, installing required dependencies, using the executable release, and resolving common problems.
 
+Lagzilla 3000 includes an automatic installer now for downloading its dependencies if not detected on 
+
 ---
 
 ## Requirements
@@ -83,22 +85,30 @@ Install Python if required.
 
 # Installing Dependencies
 
-Lagzilla-3000 requires the following external package:
+Lagzilla-3000 requires the following external packages:
 
 ```text
 requests
-```
+beautifulsoup4
 
-Install it with:
+Install them with:
 
 ```bash
 pip install requests
+```
+
+```bash
+pip install beautifulsoup4
 ```
 
 or:
 
 ```bash
 pip3 install requests
+```
+
+```bash
+pip3 install beautifulsoup4
 ```
 
 The following modules are already included with Python:
@@ -183,6 +193,16 @@ Install dependencies:
 
 ```bash
 pip install requests
+```
+
+```bash
+pip install beautifulsoup4
+```
+
+Or if you want to install both at the same time:
+
+```bash
+pip install requests beautifulsoup4
 ```
 
 Run the application:
