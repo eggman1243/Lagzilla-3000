@@ -1,6 +1,6 @@
 # Lagzilla-3000
 
-A DoS tool intended for research, educational purposes, and experimentation. It may also be used for stress-testing your own infrastructure, helping identify performance limitations while improving resilience and protection against future attacks.
+A DoS tool intended for research, educational purposes, and experimentation. It should mainly be used for stress-testing your own infrastructure, helping identify performance limitations while improving resilience and protection against future attacks.
 
 ## Disclaimer
 
